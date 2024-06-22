@@ -13,10 +13,10 @@ from detection import PeopleDetector
 from drawing_bb import draw_predictions
 import os
 
-SOURCE_PATH = 'crowd.mp4'
+SOURCE_PATH = 'data/crowd.mp4'
 THRESHOLD = 0.9
 
-def main(SOURCE_PATH: str = SOURCE_PATH, SAVE_PATH: str = "sample_output.avi") -> None:
+def main(SOURCE_PATH: str = SOURCE_PATH, SAVE_PATH: str = "output/sample_output.avi") -> None:
     """
     Обрабатывает видеофайл, выполняет детекцию людей на каждом кадре и сохраняет обработанное видео
 
