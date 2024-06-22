@@ -21,8 +21,8 @@ project/
 │
 ├── output/
 │   ├── output_crowd.mp4      - Обработанное видео
-│   ├── original_video.gif             - Демонстрационный gif 1
-│   ├── detect_video.gif             - Демонстрационный gif 2
+│   ├── original_video.gif    - Демонстрационный gif 1
+│   ├── detect_video.gif      - Демонстрационный gif 2
 │
 ├── requirements.txt          - Файл с зависимостями
 ├── README.md
