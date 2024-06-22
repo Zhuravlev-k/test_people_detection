@@ -51,8 +51,8 @@ ___
 
 Ниже приведены примеры работы алгоритма:
 
-![Demo 1](output/demo1.gif)
-![Demo 2](output/demo2.gif)
+![Demo 1](output/original_video.gif)
+![Demo 2](output/detect_video.gif)
 ___
 ## Анализ полученных результатов
 - при выбранном трешхолде в 0.9 модель детектирует людей только на переднем плане
